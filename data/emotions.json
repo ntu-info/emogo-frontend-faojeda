@@ -1,0 +1,30 @@
+{
+  "_note": "Synthetic sample data for assignment grading format checks only. Timestamps do NOT reflect real usage.",
+  "records": [
+    {
+      "id": "e-1",
+      "emotion": "joy",
+      "label": "Joy",
+      "color": "#FFD93B",
+      "note": "Synthetic emotion sample",
+      "timestamp": "2025-11-25T07:50:00.000Z"
+    },
+    {
+      "id": "e-2",
+      "emotion": "sadness",
+      "label": "Sadness",
+      "color": "#4D7CFE",
+      "note": "Synthetic emotion sample",
+      "timestamp": "2025-11-25T20:30:00.000Z"
+    },
+    {
+      "id": "e-3",
+      "emotion": "fear",
+      "label": "Fear",
+      "color": "#9B5DE5",
+      "note": "Synthetic emotion sample",
+      "timestamp": "2025-11-26T09:05:00.000Z"
+    }
+  ]
+}
+

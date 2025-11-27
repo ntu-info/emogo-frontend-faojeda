@@ -1,0 +1,26 @@
+{
+  "_note": "Synthetic sample data for assignment grading format checks only. Timestamps do NOT reflect real usage.",
+  "records": [
+    {
+      "id": "mem-1",
+      "emotion": "joy",
+      "color": "#FFD93B",
+      "note": "Went to the fair and won a prize (synthetic)",
+      "timestamp": "2025-11-25T08:00:00.000Z"
+    },
+    {
+      "id": "mem-2",
+      "emotion": "sadness",
+      "color": "#4D7CFE",
+      "note": "Missed the last train, walked home in the rain (synthetic)",
+      "timestamp": "2025-11-25T21:30:00.000Z"
+    },
+    {
+      "id": "mem-3",
+      "emotion": "fear",
+      "color": "#9B5DE5",
+      "note": "Gave a presentation and it went well despite nerves (synthetic)",
+      "timestamp": "2025-11-26T10:00:00.000Z"
+    }
+  ]
+}
